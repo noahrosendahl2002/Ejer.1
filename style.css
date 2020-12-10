@@ -1,0 +1,50 @@
+h1{
+color: midnightblue;
+font-weight: 900;
+letter-spacing: 50px;
+text-align: right;
+font-weight: bold;
+text-transform: uppercase;
+}
+body{
+    background-color: hsl(67deg 11% 75%);
+}
+p.introduccion{
+    text-align: justify;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+img.izq {
+    float: left;
+    width: 257px;
+    height: 321px;
+}
+h2.santamaria{
+    font-family: sans-serif;
+background-color: olive;
+color: white;
+}
+p.santamaria{
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 20px;
+}
+h2.santacroce{
+    color: white;
+    background-color: olive;
+    font-family: sans-serif;
+}
+img.santacroce{
+    float: none;
+}
+p.santacroce{
+    text-align: center;
+}
+p.santacrocetext{
+font-family: sans-serif;
+text-align: justify;
+font-size: 20px;
+}
+img.santamarianovella{
+    float: right;
+}
